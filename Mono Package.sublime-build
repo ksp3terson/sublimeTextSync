@@ -1,0 +1,17 @@
+{
+  	"working_dir": "${project_path:${folder}}",
+	"shell_cmd": "make package-debug",
+	"selector": ["source.cs"],
+
+	"variants":
+	[
+		{
+			"name": "Release",
+			"shell_cmd": "make package-release"
+		},
+		{
+			"name": "Deploy",
+			"shell_cmd": "./velox-update"
+		}
+	]
+}

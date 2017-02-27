@@ -1,3 +1,82 @@
 {
-	"font_size": 11
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_triggers":
+	[
+		{
+			"characters": "<",
+			"selector": "text.html"
+		},
+		{
+			"characters": ".>:",
+			"selector": "source.c++, source.c - string - comment - constant.numeric"
+		}
+	],
+	"caret_extra_width": 2,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"fade_fold_buttons": false,
+	"file_exclude_patterns":
+	[
+		"*.o",
+		"*.d",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".dep",
+		".settings"
+	],
+	"font_face": "Monospace",
+	"font_size": 9,
+	"gpu_window_buffer": "true",
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"indent_to_bracket": true,
+	"line_numbers": false,
+	"material_theme_accent_graphite": true,
+	"remember_full_screen": true,
+	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
+	"scroll_speed": 0,
+	"shift_tab_unindent": true,
+	"show_errors_inline": false,
+	"tab_size": 4,
+	"theme": "Boxy Monokai.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }

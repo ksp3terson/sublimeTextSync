@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Widget Font Size",
+		"Clang Format",
+		"EasyClangComplete",
+		"Package Control"
+	]
+}

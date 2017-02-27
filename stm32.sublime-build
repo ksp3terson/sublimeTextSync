@@ -1,0 +1,16 @@
+{
+    "cmd": ["make", "-j4"],
+
+    "variants":
+    [
+        {
+            "name": "Debug",
+            "cmd": "make -j4 debug"
+        },
+
+        {
+            "name": "Deploy",
+            "cmd": "make deploy"
+        }
+    ]
+}
