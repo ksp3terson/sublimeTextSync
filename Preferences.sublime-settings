@@ -13,7 +13,7 @@
 	],
 	"caret_extra_width": 2,
 	"caret_style": "phase",
-	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
@@ -50,7 +50,7 @@
 		".settings"
 	],
 	"font_face": "Monospace",
-	"font_size": 9,
+	"font_size": 14,
 	"gpu_window_buffer": "true",
 	"highlight_line": true,
 	"hot_exit": false,
@@ -63,7 +63,7 @@
 		"draw_active"
 	],
 	"indent_to_bracket": true,
-	"line_numbers": false,
+	"line_numbers": true,
 	"material_theme_accent_graphite": true,
 	"remember_full_screen": true,
 	"remember_open_files": false,
@@ -78,5 +78,6 @@
 	"theme": "Boxy Monokai.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	"update_check": false
 }
