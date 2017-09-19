@@ -1,5 +1,6 @@
 {
-	"auto_complete_commit_on_tab": true,
+	"auto_complete_commit_on_tab": false,
+	"auto_complete_delay": 10,
 	"auto_complete_triggers":
 	[
 		{
@@ -78,6 +79,6 @@
 	"theme": "Boxy Monokai.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"update_check": false
+	"update_check": false,
+	"word_wrap": false
 }

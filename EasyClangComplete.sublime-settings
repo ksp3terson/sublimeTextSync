@@ -104,5 +104,5 @@
 
   // Controls if libclang will cache the results.
   // This works faster, but in rare cases can generate wrong completions.
-  "use_libclang_caching": false
+  "use_libclang_caching": true
 }
