@@ -51,12 +51,13 @@
 		".settings"
 	],
 	"font_face": "Monospace",
-	"font_size": 14,
+	"font_size": 12,
 	"gpu_window_buffer": "true",
 	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
+		"EasyClangComplete",
 		"Vintage"
 	],
 	"indent_guide_options":
