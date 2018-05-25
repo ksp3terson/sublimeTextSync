@@ -148,6 +148,7 @@
 
     // And in the "src" directory:
     "../src/",
+    "../../src/",
 
     // And in the "source" directory:
     "../source/",

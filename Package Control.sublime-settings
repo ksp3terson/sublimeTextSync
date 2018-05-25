@@ -14,6 +14,7 @@
 		"Catkin Builder",
 		"Clang Format",
 		"EasyClangComplete",
-		"Package Control"
+		"Package Control",
+		"PyYapf Python Formatter"
 	]
 }
